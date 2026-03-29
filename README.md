@@ -31,3 +31,17 @@ It allows users to add, view, search, update, and delete student data.
 ## Notes
 - Input validation is applied for marks
 - Duplicate student names are not allowed
+
+## Sample output
+1.Add Student
+2.View all reports
+3.Search student
+4.Update student
+5.Delete student
+6.Exit
+
+Enter your choice: 1
+Enter name: John
+Enter your marks: 80 90 85
+
+Student added successfully
